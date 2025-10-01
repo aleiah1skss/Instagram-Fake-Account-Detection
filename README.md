@@ -40,7 +40,7 @@ Instagram Fake Spammer Genuine Accounts
 Project Overview
 This project addresses the challenge of identifying fake and spam accounts on Instagram. I developed a machine learning model to classify profiles as either genuine or fake based on key profile features and user activity.
 
-Project By: [Your Name]
+Project By: Aliya Nishath
 
 Company: Unified Mentor
 
@@ -68,12 +68,7 @@ Run All Cells: Open the Jupyter Notebook file and execute all cells in the corre
 Key Findings & Results
 The final Random Forest Classifier achieved a high accuracy in identifying fake accounts. The analysis revealed that key features like the number of followers and the presence of a profile picture are strong indicators of a fake account.
 
-Model Performance:
 
-Accuracy: [Your final accuracy score, e.g., 94.17%]
-
-Confusion Matrix
-Feature Importances
 About Me
 
 
